@@ -9,3 +9,4 @@ Tested in version 4.2.46.
 - [Filename and extension](filename.md)
 - [Explode](explode.md)
 - [No date](nodate.md)
+- [No globbing](noglob.md)
