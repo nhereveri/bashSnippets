@@ -10,3 +10,4 @@ Tested in version 4.2.46.
 - [Explode](explode.md)
 - [No date](nodate.md)
 - [No globbing](noglob.md)
+- [Set hostid](sethostid.md)
